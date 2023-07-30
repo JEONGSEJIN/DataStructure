@@ -4,4 +4,4 @@
 =====
 - 실행 결과
 =====
-  ![image](https://github.com/JEONGSEJIN/DataStructure/assets/41496585/2527ac52-8c48-48ba-8d19-0bb9fe5f8b95)
+![image](https://github.com/JEONGSEJIN/DataStructure/assets/41496585/2527ac52-8c48-48ba-8d19-0bb9fe5f8b95)
